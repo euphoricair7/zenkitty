@@ -1,0 +1,5 @@
+/zenkitty
+/cmd/zenkitty/zenkitty
+*.exe
+*.test
+*.out
